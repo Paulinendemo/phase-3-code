@@ -79,7 +79,7 @@ Some of the methods listed are provided to you in the starter code. You should c
 #### Article
 
 - `Article#author`
-  - Returns the author for that given article
+  - Returns the author for that given article     
 - `Article#magazine`
   - Returns the magazine for that given article
 
